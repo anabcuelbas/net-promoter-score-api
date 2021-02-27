@@ -1,6 +1,7 @@
 {
     "type": "sqlite",
     "database": "./src/database/database.sqlite",
+    "logging": true,
     "entities": ["./src/models/**.ts"],
     "migrations": ["./src/database/migrations/**.ts"],
     "cli" : {
