@@ -21,6 +21,7 @@
   "homepage": "https://github.com/anabcuelbas/net-promoter-score-api#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "handlebars": "^4.7.7",
     "nodemailer": "^6.5.0",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.2",
